@@ -63,20 +63,20 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Phone size={18} className="mr-2 text-secondary-400" />
-                <a href="tel:+256758918200" className="text-gray-300 hover:text-primary-300">
-                  +256 758 918 200
+                <a href="tel:+256752441481" className="text-gray-300 hover:text-primary-300">
+                  +256 752 441 481
                 </a>
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="mr-2 text-secondary-400" />
                 <a href="mailto:robertbgl@gmail.com" className="text-gray-300 hover:text-primary-300">
-                  robertbgl@gmail.com
+                  robertbgl8@gmail.com
                 </a>
               </li>
               <li className="flex items-start">
                 <MapPin size={18} className="mr-2 mt-1 text-secondary-400" />
                 <span className="text-gray-300">
-                  Kampala, Uganda
+                  Jinja, Uganda
                 </span>
               </li>
             </ul>
