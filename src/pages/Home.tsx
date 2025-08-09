@@ -188,7 +188,7 @@ const Home = () => {
             <motion.div variants={itemVariants}>
               <Link to="/about">
                 <Button variant="primary">
-                  About Rev. Bagoole
+                  About Rev. Robert Bagoole
                 </Button>
               </Link>
             </motion.div>
