@@ -315,7 +315,7 @@ const Contact = () => {
                 Call Now
               </Button>
             </a>
-            <a href="mailto:robertbgl@gmail.com">
+            <a href="mailto:robertbgl8@gmail.com">
               <Button
                 variant="outline"
                 size="lg"

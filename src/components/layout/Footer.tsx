@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Phone, Mail, MapPin, Facebook, Twitter, Instagram, Heart } from 'lucide-react';
+import { Phone, Mail, MapPin, Facebook, Twitter, Instagram, Heart, Bird } from 'lucide-react';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -12,14 +12,15 @@ const Footer = () => {
           {/* Logo and Description */}
           <div className="lg:col-span-1">
             <Link to="/" className="flex items-center mb-4">
-              <Heart 
+              <Bird
                 size={24} 
                 className="text-secondary-400 mr-2" 
                 fill="#3CB371" 
                 strokeWidth={1.5} 
+                strokeOpacity={0}
               />
               <span className="font-serif text-xl font-bold text-white">
-                Comfort<span className="text-secondary-400">.In</span>
+                Dove Blessed<span className="text-secondary-400"> Ministries</span>
               </span>
             </Link>
             <p className="text-gray-300 mb-4">
