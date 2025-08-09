@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { NavLink, Link } from 'react-router-dom';
-import { Menu, X, Heart } from 'lucide-react';
+import { Menu, X, Heart, BirdIcon, Bird } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const Header = () => {
@@ -45,14 +45,14 @@ const Header = () => {
             className="flex items-center" 
             onClick={closeMenu}
           >
-            <Heart 
+            <Bird 
               size={32} 
               className="text-primary-500 mr-2" 
               fill="#8A2BE2" 
               strokeWidth={1.5} 
             />
             <span className="font-serif text-2xl font-bold text-primary-700">
-              Comfort<span className="text-secondary-600">.In</span>
+              Dove Blessed<span className="text-secondary-600"> Ministries</span>
             </span>
           </Link>
 
