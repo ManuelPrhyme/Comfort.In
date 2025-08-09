@@ -186,7 +186,7 @@ const Home = () => {
               His approach combines sound biblical principles with professional counseling techniques, creating a supportive environment where you can grow spiritually while addressing life\'s challenges.
             </motion.p>
             <motion.div variants={itemVariants}>
-              <Link to="/about">
+              <Link to="/about#">
                 <Button variant="primary">
                   About Rev. Robert Bagoole
                 </Button>
