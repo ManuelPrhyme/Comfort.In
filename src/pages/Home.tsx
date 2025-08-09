@@ -68,7 +68,7 @@ const Home = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              Professional Christian counseling to help you navigate life\'s challenges with faith, hope, and purpose.
+              Professional Christian counseling and to help you navigate life\'s challenges with faith, hope, and purpose.
             </motion.p>
             <motion.div 
               className="flex flex-wrap gap-4"
