@@ -136,7 +136,7 @@ const Counseling = () => {
           <div>
             <h2 className="text-3xl font-serif font-bold mb-6">Compassionate Biblical Counseling</h2>
             <p className="text-lg text-gray-700 mb-4">
-              At Comfort.In, I provide Christ-centered counseling that combines biblical wisdom with professional therapeutic techniques to address the whole person—spirit, mind, and body.
+              At Dove Blessed Ministries, we provide Christ-centered counseling that combines biblical wisdom with professional therapeutic techniques to address the whole person—spirit, mind, and body.
             </p>
             <p className="text-lg text-gray-700 mb-4">
               Whether you're struggling with anxiety, grief, relationship challenges, or seeking deeper purpose in your life, my goal is to create a safe, compassionate space where you can explore your challenges, discover God's purpose, and develop practical skills to overcome obstacles with faith and confidence.

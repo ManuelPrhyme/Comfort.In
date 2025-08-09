@@ -117,7 +117,7 @@ const Footer = () => {
         {/* Bottom / Copyright */}
         <div className="mt-10 pt-6 border-t border-gray-800 text-center text-gray-400 text-sm">
           <p>
-            &copy; {currentYear} Comfort.In - Christian Counseling. All rights reserved.
+            &copy; {currentYear} Dove Blessed Ministries - Spiriture guided services. All rights reserved.
           </p>
           <p className="mt-2">
             Rev. Robert Bagoole - Helping you find peace through Christ.

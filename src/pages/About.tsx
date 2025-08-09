@@ -58,10 +58,10 @@ const About = () => {
             <div className="mt-8">
               <h3 className="text-xl font-serif font-semibold mb-4">Contact Information</h3>
               <p className="mb-2">
-                <strong>Phone:</strong> +256 782 319 579 / +256 758 918 200
+                <strong>Phone:</strong> +256 782 319 579 / +256 752 441 481
               </p>
               <p>
-                <strong>Email:</strong> robertbgl@gmail.com
+                <strong>Email:</strong> robertbgl8@gmail.com
               </p>
             </div>
           </div>

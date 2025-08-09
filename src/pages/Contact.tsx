@@ -87,9 +87,9 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-medium mb-1">Phone</h3>
-                  <p className="text-gray-600 mb-1">Call or text to speak directly with Rev. Bagoole:</p>
+                  <p className="text-gray-600 mb-1">Call or text to speak directly with Rev. Robert Bagoole</p>
                   <a href="tel:+256782319579" className="block text-primary-600 hover:underline">+256 782 319 579</a>
-                  <a href="tel:+256758918200" className="block text-primary-600 hover:underline">+256 758 918 200</a>
+                  <a href="tel:+256758918200" className="block text-primary-600 hover:underline">+256 752 441 481</a>
                 </div>
               </div>
               
@@ -100,7 +100,7 @@ const Contact = () => {
                 <div>
                   <h3 className="font-medium mb-1">Email</h3>
                   <p className="text-gray-600 mb-1">Send an email for any inquiries:</p>
-                  <a href="mailto:robertbgl@gmail.com" className="text-primary-600 hover:underline">robertbgl@gmail.com</a>
+                  <a href="mailto:robertbgl@gmail.com" className="text-primary-600 hover:underline">robertbgl8@gmail.com</a>
                 </div>
               </div>
               
@@ -111,7 +111,7 @@ const Contact = () => {
                 <div>
                   <h3 className="font-medium mb-1">Location</h3>
                   <p className="text-gray-600">
-                    Kampala, Uganda<br />
+                    Jinja, Uganda<br />
                     <span className="text-sm">(Specific address provided when scheduling in-person sessions)</span>
                   </p>
                 </div>
